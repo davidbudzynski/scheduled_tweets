@@ -73,3 +73,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "rdoc", "~> 6.4"
+
+gem "bcrypt", "~> 3.1"
